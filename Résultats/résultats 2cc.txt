@@ -1,0 +1,822 @@
+******* Deux couches cahchées *******
+******* Fonction de performance : '*******
+    name: 'sse'
+
+******* Train Ratio : '*******
+    50
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainrp'
+
+Nombre de neurones :     1
+
+Best performance achieved :   26.5451
+
+Best regression achieved :    0.5813
+
+Nombre de neurones :     2
+
+Best performance achieved :   10.8352
+
+Best regression achieved :    0.8317
+
+Nombre de neurones :     3
+
+Best performance achieved :    4.7613
+
+Best regression achieved :    0.8906
+
+Nombre de neurones :     4
+
+Best performance achieved :    3.9231
+
+Best regression achieved :    0.9266
+
+Nombre de neurones :     5
+
+Best performance achieved :    0.6130
+
+Best regression achieved :    0.9748
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainscg'
+
+Nombre de neurones :     1
+
+Best performance achieved :   21.8203
+
+Best regression achieved :    0.7364
+
+Nombre de neurones :     2
+
+Best performance achieved :    3.9050
+
+Best regression achieved :    0.9062
+
+Nombre de neurones :     3
+
+Best performance achieved :    0.0572
+
+Best regression achieved :    0.9564
+
+Nombre de neurones :     4
+
+Best performance achieved :    0.0763
+
+Best regression achieved :    0.9223
+
+Nombre de neurones :     5
+
+Best performance achieved :    0.0479
+
+Best regression achieved :    0.9873
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainlm'
+
+Nombre de neurones :     1
+
+Best performance achieved :   16.6250
+
+Best regression achieved :    0.7565
+
+Nombre de neurones :     2
+
+Best performance achieved :    2.9368
+
+Best regression achieved :    0.9029
+
+Nombre de neurones :     3
+
+Best performance achieved :   4.6061e-07
+
+Best regression achieved :    0.9644
+
+Nombre de neurones :     4
+
+Best performance achieved :   1.5361e-06
+
+Best regression achieved :    0.9768
+
+Nombre de neurones :     5
+
+Best performance achieved :    1.9410
+
+Best regression achieved :    0.9677
+
+******* Train Ratio : '*******
+    60
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainrp'
+
+Nombre de neurones :     1
+
+Best performance achieved :   33.0988
+
+Best regression achieved :    0.6302
+
+Nombre de neurones :     2
+
+Best performance achieved :   16.9192
+
+Best regression achieved :    0.8035
+
+Nombre de neurones :     3
+
+Best performance achieved :    6.6635
+
+Best regression achieved :    0.9257
+
+Nombre de neurones :     4
+
+Best performance achieved :    6.5287
+
+Best regression achieved :    0.9039
+
+Nombre de neurones :     5
+
+Best performance achieved :    0.0699
+
+Best regression achieved :    0.9778
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainscg'
+
+Nombre de neurones :     1
+
+Best performance achieved :   20.0232
+
+Best regression achieved :    0.7685
+
+Nombre de neurones :     2
+
+Best performance achieved :    4.7689
+
+Best regression achieved :    0.9440
+
+Nombre de neurones :     3
+
+Best performance achieved :    0.1416
+
+Best regression achieved :    0.9988
+
+Nombre de neurones :     4
+
+Best performance achieved :    0.0200
+
+Best regression achieved :    0.9998
+
+Nombre de neurones :     5
+
+Best performance achieved :    0.0017
+
+Best regression achieved :    1.0000
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainlm'
+
+Nombre de neurones :     1
+
+Best performance achieved :   20.0855
+
+Best regression achieved :    0.8085
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0066
+
+Best regression achieved :    0.9809
+
+Nombre de neurones :     3
+
+Best performance achieved :    0.0250
+
+Best regression achieved :    0.9988
+
+Nombre de neurones :     4
+
+Best performance achieved :   1.6299e-08
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     5
+
+Best performance achieved :   1.8569e-10
+
+Best regression achieved :    1.0000
+
+******* Train Ratio : '*******
+    70
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainrp'
+
+Nombre de neurones :     1
+
+Best performance achieved :   44.0620
+
+Best regression achieved :    0.5801
+
+Nombre de neurones :     2
+
+Best performance achieved :   14.4635
+
+Best regression achieved :    0.8731
+
+Nombre de neurones :     3
+
+Best performance achieved :    8.3473
+
+Best regression achieved :    0.9198
+
+Nombre de neurones :     4
+
+Best performance achieved :    1.1776
+
+Best regression achieved :    0.9903
+
+Nombre de neurones :     5
+
+Best performance achieved :    1.1706
+
+Best regression achieved :    0.9775
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainscg'
+
+Nombre de neurones :     1
+
+Best performance achieved :   27.7507
+
+Best regression achieved :    0.7937
+
+Nombre de neurones :     2
+
+Best performance achieved :    8.0830
+
+Best regression achieved :    0.9281
+
+Nombre de neurones :     3
+
+Best performance achieved :    0.0039
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     4
+
+Best performance achieved :    0.0043
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     5
+
+Best performance achieved :    0.0022
+
+Best regression achieved :    1.0000
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainlm'
+
+Nombre de neurones :     1
+
+Best performance achieved :   29.6466
+
+Best regression achieved :    0.7788
+
+Nombre de neurones :     2
+
+Best performance achieved :    2.0215
+
+Best regression achieved :    0.9813
+
+Nombre de neurones :     3
+
+Best performance achieved :    0.0196
+
+Best regression achieved :    0.9819
+
+Nombre de neurones :     4
+
+Best performance achieved :   4.3938e-09
+
+Best regression achieved :    0.9811
+
+Nombre de neurones :     5
+
+Best performance achieved :   8.1907e-24
+
+Best regression achieved :    1.0000
+
+******* Train Ratio : '*******
+    80
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainrp'
+
+Nombre de neurones :     1
+
+Best performance achieved :   43.9116
+
+Best regression achieved :    0.6598
+
+Nombre de neurones :     2
+
+Best performance achieved :   12.6075
+
+Best regression achieved :    0.9170
+
+Nombre de neurones :     3
+
+Best performance achieved :    9.0573
+
+Best regression achieved :    0.9469
+
+Nombre de neurones :     4
+
+Best performance achieved :    0.1664
+
+Best regression achieved :    0.9989
+
+Nombre de neurones :     5
+
+Best performance achieved :    0.0170
+
+Best regression achieved :    0.9999
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainscg'
+
+Nombre de neurones :     1
+
+Best performance achieved :   29.2910
+
+Best regression achieved :    0.8025
+
+Nombre de neurones :     2
+
+Best performance achieved :    9.4644
+
+Best regression achieved :    0.9403
+
+Nombre de neurones :     3
+
+Best performance achieved :    0.0160
+
+Best regression achieved :    0.9999
+
+Nombre de neurones :     4
+
+Best performance achieved :    0.0061
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     5
+
+Best performance achieved :   7.8164e-04
+
+Best regression achieved :    1.0000
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainlm'
+
+Nombre de neurones :     1
+
+Best performance achieved :   35.3828
+
+Best regression achieved :    0.7642
+
+Nombre de neurones :     2
+
+Best performance achieved :   1.3360e-07
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     3
+
+Best performance achieved :   6.8698e-12
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     4
+
+Best performance achieved :   2.5084e-14
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     5
+
+Best performance achieved :   7.3926e-09
+
+Best regression achieved :    1.0000
+
+******* Fonction de performance : '*******
+    name: 'mse'
+
+******* Train Ratio : '*******
+    50
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainrp'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.1205
+
+Best regression achieved :    0.6101
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0602
+
+Best regression achieved :    0.8230
+
+Nombre de neurones :     3
+
+Best performance achieved :    0.0347
+
+Best regression achieved :    0.8281
+
+Nombre de neurones :     4
+
+Best performance achieved :    0.0048
+
+Best regression achieved :    0.9572
+
+Nombre de neurones :     5
+
+Best performance achieved :   8.2207e-04
+
+Best regression achieved :    0.9336
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainscg'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.0756
+
+Best regression achieved :    0.7589
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0023
+
+Best regression achieved :    0.9506
+
+Nombre de neurones :     3
+
+Best performance achieved :   6.2328e-05
+
+Best regression achieved :    0.9726
+
+Nombre de neurones :     4
+
+Best performance achieved :   3.6091e-06
+
+Best regression achieved :    0.9626
+
+Nombre de neurones :     5
+
+Best performance achieved :   2.8731e-05
+
+Best regression achieved :    0.9550
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainlm'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.0732
+
+Best regression achieved :    0.7622
+
+Nombre de neurones :     2
+
+Best performance achieved :   6.2134e-08
+
+Best regression achieved :    0.9617
+
+Nombre de neurones :     3
+
+Best performance achieved :   5.7938e-05
+
+Best regression achieved :    0.9583
+
+Nombre de neurones :     4
+
+Best performance achieved :   5.9893e-05
+
+Best regression achieved :    0.9325
+
+Nombre de neurones :     5
+
+Best performance achieved :   1.0807e-10
+
+Best regression achieved :    0.9783
+
+******* Train Ratio : '*******
+    60
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainrp'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.1274
+
+Best regression achieved :    0.6157
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0711
+
+Best regression achieved :    0.8110
+
+Nombre de neurones :     3
+
+Best performance achieved :    0.0294
+
+Best regression achieved :    0.9243
+
+Nombre de neurones :     4
+
+Best performance achieved :    0.0039
+
+Best regression achieved :    0.9871
+
+Nombre de neurones :     5
+
+Best performance achieved :   9.3444e-04
+
+Best regression achieved :    0.9726
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainscg'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.1026
+
+Best regression achieved :    0.7594
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0143
+
+Best regression achieved :    0.9308
+
+Nombre de neurones :     3
+
+Best performance achieved :   1.1097e-05
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     4
+
+Best performance achieved :   2.8905e-06
+
+Best regression achieved :    0.9809
+
+Nombre de neurones :     5
+
+Best performance achieved :   9.9226e-06
+
+Best regression achieved :    1.0000
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainlm'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.0868
+
+Best regression achieved :    0.7536
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0050
+
+Best regression achieved :    0.9850
+
+Nombre de neurones :     3
+
+Best performance achieved :   2.5489e-08
+
+Best regression achieved :    0.9621
+
+Nombre de neurones :     4
+
+Best performance achieved :   1.1249e-10
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     5
+
+Best performance achieved :   6.9360e-13
+
+Best regression achieved :    0.9448
+
+******* Train Ratio : '*******
+    70
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainrp'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.1480
+
+Best regression achieved :    0.6060
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0872
+
+Best regression achieved :    0.7730
+
+Nombre de neurones :     3
+
+Best performance achieved :    0.0217
+
+Best regression achieved :    0.9291
+
+Nombre de neurones :     4
+
+Best performance achieved :   3.4126e-04
+
+Best regression achieved :    0.9992
+
+Nombre de neurones :     5
+
+Best performance achieved :    0.0066
+
+Best regression achieved :    0.9617
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainscg'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.0789
+
+Best regression achieved :    0.7879
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0063
+
+Best regression achieved :    0.9630
+
+Nombre de neurones :     3
+
+Best performance achieved :   2.6621e-04
+
+Best regression achieved :    0.9988
+
+Nombre de neurones :     4
+
+Best performance achieved :   4.0163e-06
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     5
+
+Best performance achieved :   2.0638e-05
+
+Best regression achieved :    0.9999
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainlm'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.0917
+
+Best regression achieved :    0.7891
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0011
+
+Best regression achieved :    0.9939
+
+Nombre de neurones :     3
+
+Best performance achieved :   1.6405e-08
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     4
+
+Best performance achieved :   6.1734e-12
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     5
+
+Best performance achieved :   1.9716e-10
+
+Best regression achieved :    1.0000
+
+******* Train Ratio : '*******
+    80
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainrp'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.1239
+
+Best regression achieved :    0.6936
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0222
+
+Best regression achieved :    0.9419
+
+Nombre de neurones :     3
+
+Best performance achieved :    0.0047
+
+Best regression achieved :    0.9761
+
+Nombre de neurones :     4
+
+Best performance achieved :    0.0092
+
+Best regression achieved :    0.9791
+
+Nombre de neurones :     5
+
+Best performance achieved :   3.8292e-04
+
+Best regression achieved :    0.9989
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainscg'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.0907
+
+Best regression achieved :    0.7789
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0158
+
+Best regression achieved :    0.9632
+
+Nombre de neurones :     3
+
+Best performance achieved :    0.0078
+
+Best regression achieved :    0.9823
+
+Nombre de neurones :     4
+
+Best performance achieved :   4.9497e-06
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     5
+
+Best performance achieved :   6.7132e-06
+
+Best regression achieved :    1.0000
+
+******* Fonction d'apprentissage : '*******
+    name: 'trainlm'
+
+Nombre de neurones :     1
+
+Best performance achieved :    0.0726
+
+Best regression achieved :    0.8142
+
+Nombre de neurones :     2
+
+Best performance achieved :    0.0155
+
+Best regression achieved :    0.9627
+
+Nombre de neurones :     3
+
+Best performance achieved :   2.9885e-08
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     4
+
+Best performance achieved :   1.8699e-13
+
+Best regression achieved :    1.0000
+
+Nombre de neurones :     5
+
+Best performance achieved :   7.5081e-19
+
+Best regression achieved :    1.0000
